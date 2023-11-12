@@ -1,16 +1,16 @@
-# gmi_sola_gracia_apps
+# Application gmi_sola_gracia_apps
 
-A new Flutter project.
+Using Flutter Technologies
 
-## Getting Started
+## Steps to running this project
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+step:
+- Go to pubspec.yaml
+- Check the dependencies
+- run command "flutter run"
+- wait unit show "exit code 0" then successfully
+- running the project on main.dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks
