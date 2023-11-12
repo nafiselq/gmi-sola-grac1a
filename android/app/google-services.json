@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235226656318",
+    "project_id": "gmi-sola-gracia",
+    "storage_bucket": "gmi-sola-gracia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235226656318:android:3aeeaf289cb4acef11eb6f",
+        "android_client_info": {
+          "package_name": "com.example.gmi_sola_gracia_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgt08lVrn3N3P9LKoCmpaOSK663TEKl1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
